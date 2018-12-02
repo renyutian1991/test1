@@ -9,3 +9,4 @@ git clone 从github复制项目到本地
 回退历史版本:git resest 版本号,git check out 文件名
 查看日志 git log
 查看暂存区信息:git status
+aaa
